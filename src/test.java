@@ -5,5 +5,7 @@ public class test {
         String i = "Hello World!";
             System.out.println(i);
             System.out.println(i);
+            // コメント
+            System.out.println("Hello Hello");
     }
 }
