@@ -12,6 +12,7 @@ public class Main {
             System.out.println("i = " + i);
             // コメント
             System.out.println("Hello");
+            // branch-test3
         }
     }
 }
