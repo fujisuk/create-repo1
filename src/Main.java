@@ -13,6 +13,7 @@ public class Main {
             // コメント
             System.out.println("Hello");
             // branch-test3
+            // フェッチ確認2
         }
     }
 }
