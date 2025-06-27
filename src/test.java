@@ -8,5 +8,6 @@ public class test {
             // コメント
             System.out.println("Hello Hello");
             // branch-test3
+            // フェッチ確認1
     }
 }
